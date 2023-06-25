@@ -1,0 +1,56 @@
+{
+
+  "name": "node-practices",
+
+  "version": "1.0.0",
+
+  "description": "practice of Node JS",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "keywords": [
+
+    "NODE",
+
+    "Vishes"
+
+  ],
+
+  "author": "Vishes Keshari",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "chalk": "^5.2.0",
+
+    "colors": "^1.4.0",
+
+    "colours": "^0.6.0-2",
+
+    "ejs": "^3.1.9",
+
+    "express": "^4.18.2",
+
+    "mongodb": "^5.3.0",
+
+    "mongoose": "^7.0.5",
+
+    "multer": "^1.4.5-lts.1",
+
+    "mysql": "^2.18.1",
+
+    "nodemon": "^2.0.22",
+
+    "simple-node-logger": "^21.8.12"
+
+  }
+
+}
+
